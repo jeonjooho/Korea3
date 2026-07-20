@@ -8,8 +8,8 @@ window.firebaseConfig = {
   projectId: "juho-jeon",
   storageBucket: "juho-jeon.firebasestorage.app",
   messagingSenderId: "959274699904",
-  appId: "1:959274699904:web:2aaf467c589fe350b0ea65",
-  measurementId: "G-H91LRVJ3CB"
+  appId: "1:959274699904:web:3b2dfc6ea8a857f9b0ea65",
+  measurementId: "G-VBNL1TPMJJ"
 };
 
 window.firebaseApp = firebase.initializeApp(window.firebaseConfig);
